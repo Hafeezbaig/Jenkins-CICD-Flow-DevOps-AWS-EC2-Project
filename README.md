@@ -27,7 +27,6 @@ This project demonstrates a complete CI pipeline setup using Jenkins, deployed o
   - [Step 17: Add Docker Hub Credentials](#step-17-add-docker-hub-credentials)
   - [Step 18: Add Jenkins Shared Library](#step-18-add-jenkins-shared-library)
   - [Step 19: Verify Pipeline Execution](#step-19-verify-pipeline-execution)
-- [Files to Include](#files-to-include)
 
 ## Setup Instructions
 
@@ -215,12 +214,26 @@ This project demonstrates a complete CI pipeline setup using Jenkins, deployed o
    - Review TRIVY scan results for Docker image vulnerabilities.
    - Check the SonarQube dashboard for code quality reports.
 
-## Files to Include
+## Feel Free to Contribute
 
-- **Jenkinsfile**: Pipeline script for the Jenkins job.
-- **Dockerfile**: Docker configuration file if used in the project.
-- **SonarQube Configuration**: Any configuration files or scripts for SonarQube.
-- **Maven Configuration**: Maven `pom.xml` or related configuration files.
-- **TRIVY Configuration**: Any configuration related to TRIVY.
-- **README.md**: This file with setup instructions.
-- **Installation Scripts**: If you modified or used any custom scripts.
+Feel free to contribute to the project or use it as a reference for your own development needs. For any issues or suggestions, please open an issue in the [GitHub repository](https://github.com/Hafeezbaig/Gemini-Clone-Project/issues).
+
+## Made By
+
+This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
+
+## Connect
+
+- [Portfolio](https://www.hafeezbaig.in)
+- [Connect](https://connect.hafeezbaig.in)
+
+## Socials
+
+- [GitHub](https://github.com/Hafeezbaig)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
+- [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
+
+## Feedback or Bug Report
+
+- [Talk](https://talk.hafeezbaig.in)
+
